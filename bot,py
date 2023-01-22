@@ -50,6 +50,6 @@ async def load_extensions():
 async def main():
     async with bot:
         await load_extensions()
-        await bot.start('NzgzNzE2NDU0NzE2NTM4OTIw.G43Aeh.5kTfX-duUdhCLwrgUrjzCuJdVtLu4CklH_CLYo')
+        await bot.start('TOKEN')
 
 asyncio.run(main())
