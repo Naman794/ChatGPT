@@ -1,4 +1,9 @@
 
+
+![chat-gpt-logo](https://user-images.githubusercontent.com/65483393/213934055-37e755d8-2498-4e9a-be99-feb12a3f00ff.jpg)
+
+# NOTE: This repo is still in developement and everyone is welcome to make contribution to this code.
+
 # ChatGPT Bot
 
 A ChatGPT bot is a chatbot that uses the GPT-3 language generation model developed by OpenAI to generate natural language responses. It allows users to interact with the bot using natural language, and the bot can respond with relevant information or carry out specific tasks. The bot can be integrated with various platforms such as Discord, Facebook Messenger, Slack, etc.
