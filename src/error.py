@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands, tasks
-
+import sqlite3
 
 class ErrorHandlingCog(commands.Cog):
     def __init__(self, bot):
