@@ -1,5 +1,6 @@
 import discord 
 from discord.ext import commands
+import sqlite3
 
 class GPT3Cog(commands.Cog):
     def __init__(self, bot):
