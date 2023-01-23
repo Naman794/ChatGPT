@@ -42,7 +42,7 @@ logger.addHandler(handler)
 
 
 async def load_extensions():
-    for filename in os.listdir("./cogs"):
+    for filename in os.listdir("./src"):
         if filename.endswith(".py"):
             # cut off the .py from the file name
             await bot.load_extension(f"cogs.{filename[:-3]}")
